@@ -52,5 +52,9 @@ jobs:
     needs: test
     steps:
       - name: Simular deploy
+<<<<<<< HEAD
         run: echo "Deploy realizado com sucesso!"## YAML Template.
 ---
+=======
+        run: echo "Deploy realizado com sucesso!"
+>>>>>>> b434ed327e6b9c3b787aed6cfe93847e9536113e

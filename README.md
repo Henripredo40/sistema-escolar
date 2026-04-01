@@ -13,3 +13,7 @@ Projeto convertido para Maven.
 ## Estrutura
 - src/main/java
 - pom.xml
+<<<<<<< HEAD
+=======
+Atualização do projeto
+>>>>>>> b434ed327e6b9c3b787aed6cfe93847e9536113e
