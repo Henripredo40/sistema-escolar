@@ -1,0 +1,15 @@
+controle\ControleAluno.class
+modelo\Professor.class
+controle\ControleAtividade.class
+modelo\Pessoa.class
+controle\ControleMateria.class
+dao\BancoDeDados.class
+modelo\Aluno.class
+modelo\Materia.class
+controle\ControleProfessor.class
+visao\Principal.class
+modelo\Correcao.class
+controle\ControleMatricula.class
+controle\ControleCorrecao.class
+modelo\Atividade.class
+modelo\Matricula.class
