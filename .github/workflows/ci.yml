@@ -53,6 +53,3 @@ jobs:
     steps:
       - name: Simular deploy
         run: echo "Deploy realizado com sucesso!"
-=======
-        run: echo "Deploy realizado com sucesso!"
->>>>>>> b434ed327e6b9c3b787aed6cfe93847e9536113e
